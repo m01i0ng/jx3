@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: https://192.168.1.111:31855
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
